@@ -1,19 +1,22 @@
 
-## Analyzing Website Performance
+# Analyzing Website Performance
 
-You can view the SQL scripts used in this project here:
-https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql
-https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/AB%20testing.sql
+---
 
-### Objective
+## Objective
 
 To analyze website traffic and identify key entry pages. Evaluate landing page performance using bounce rate and run A/B tests to improve user engagement and optimize marketing results.
 
-### Most-viewed website pages, ranked by session volume
+---
+
+## Most-viewed website pages, ranked by session volume
 
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
 
-<p align="center"> <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706170925.png?raw=true" width="45%"> <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706171915.png?raw=true" width="45%"> </p>
+<p align="center"> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706170925.png?raw=true" width="45%"> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706171915.png?raw=true" width="45%"> 
+</p>
 
 The **homepage**, the **products page**, and the **Mr. Fuzzy product page** get the **bulk of my traffic analysis**, accounting for the top three most-visited URLs before June 9, 2012. This indicates where users engage most and where optimization efforts should be focused first.
 
@@ -29,14 +32,17 @@ This finding highlights that the homepage served as the **exclusive entry point*
 
 👉 Therefore, any efforts to improve landing page performance or user flow should **start with homepage optimization**, since it’s the first point of contact for every visitor.
 
-### What is Bounce Rate
+---
+
+## What is Bounce Rate
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706173528.png?raw=true)
 
-
 **Bounce Rate** is the percentage of website visitors who leave the site after viewing only one page without taking any further action (such as clicking a link, making a purchase, or navigating to another page). These visitors are called **Bounced Sessions** because their session ends after viewing just a single page.
 
-<p align="center"> <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175307.png?raw=true" alt="Bounce Rate Chart" /> </p>
+<p align="center"> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175307.png?raw=true" alt="Bounce Rate Chart" /> 
+</p>
 
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
 
@@ -48,7 +54,9 @@ An **A/B test** will be conducted to compare the **new custom landing page** aga
 
 This experiment will help determine whether the new page design effectively reduces drop-offs and improves user interaction.
 
-### A/B Test Methods – New Landing Page vs. Homepage
+---
+
+## A/B Test Methods – New Landing Page vs. Homepage
 
 To compare the performance of the new landing page (`/lander-1`) against the existing homepage (`/home`), I used SQL queries to analyze real user session data.
 
@@ -67,15 +75,23 @@ The analysis involved:
 
 This SQL-based approach allowed me to measure and compare user engagement on both pages, showing that the new landing page has a lower bounce rate and better retains visitors.
 
-### A/B Test Results – New Landing Page vs. Homepage
+---
+
+## A/B Test Results – New Landing Page vs. Homepage
 
 The A/B test showed that the **new landing page (lander-1)** outperformed the existing **homepage** in terms of **bounce rate**:
 
 -   **New Landing Page (lander-1):** 53.22%
     
 -   **Homepage (/home):** 58.34%
-    
 
-This improvement suggests that the new page provides a more engaging entry point for users, reducing immediate exits.
+---
 
-Additionally, the **nonbrand paid search campaign** has been directed to this new landing page, allowing me to capitalize on its stronger performance and drive better results from the marketing spend.
+## Resources
+
+- SQL Scripts:  
+  - [Calculate Bounce Rate](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
+  - [A/B Testing](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/AB%20testing.sql)  
+
+- Tableau Dashboard:  
+  - [Most-viewed website pages ranked by session volume](https://public.tableau.com/views/Most-viewedwebsitepagesrankedbysessionvolume/Sheet1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
