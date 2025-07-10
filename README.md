@@ -1,20 +1,22 @@
 
+
 # Analyzing Website Performance
+This project begins with a fundamental question:
 
+> _Which webpages are attracting the most traffic, and how likely are users to continue browsing beyond the landing page?_
+
+Using session data collected prior to **June 9, 2012**, I analyzed the most visited pages, identified the main entry point, and evaluated user engagement by calculating bounce rates. These insights laid the groundwork for potential optimizations and further testing.
+
+> **Key Question:**  
+> _Can the new landing page reduce bounce rate and improve user engagement compared to the existing homepage?_
 ---
 
-## Objective
-
-To analyze website traffic and identify key entry pages. Evaluate landing page performance using bounce rate and run A/B tests to improve user engagement and optimize marketing results.
-
----
-
-## Most-viewed website pages, ranked by session volume
+## What is the most-viewed website pages?
 
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
 
 <p align="center"> 
-  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706170925.png?raw=true" width="45%"> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Most%20viewed%20website%20pages.png?raw=true" width="45%"> 
   <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706171915.png?raw=true" width="45%"> 
 </p>
 
@@ -75,8 +77,6 @@ The analysis involved:
 
 This SQL-based approach allowed me to measure and compare user engagement on both pages, showing that the new landing page has a lower bounce rate and better retains visitors.
 
----
-
 ## A/B Test Results – New Landing Page vs. Homepage
 
 The A/B test showed that the **new landing page (lander-1)** outperformed the existing **homepage** in terms of **bounce rate**:
@@ -84,8 +84,6 @@ The A/B test showed that the **new landing page (lander-1)** outperformed the ex
 -   **New Landing Page (lander-1):** 53.22%
     
 -   **Homepage (/home):** 58.34%
-
----
 
 ## Resources
 
