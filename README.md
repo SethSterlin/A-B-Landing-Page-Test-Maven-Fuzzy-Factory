@@ -3,7 +3,7 @@
 # Analyzing Website Performance
 This project begins with a fundamental question:
 
-> _Which webpages are attracting the most traffic, and how likely are users to continue browsing beyond the landing page?_
+> _Which webpage do most users land on first, and how likely are they to continue browsing beyond that initial page?_
 
 Using session data collected prior to **June 9, 2012**, I analyzed the most visited pages, identified the main entry point, and evaluated user engagement by calculating bounce rates. These insights laid the groundwork for potential optimizations and further testing.
 
