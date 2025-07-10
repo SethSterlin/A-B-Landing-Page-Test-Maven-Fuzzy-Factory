@@ -48,7 +48,7 @@ This finding highlights that the homepage served as the **exclusive entry point*
 
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
 
-> **The problem is that I calculated the **Bounce Rate to be 59%**, which is quite high.
+> The problem is that I calculated the **Bounce Rate to be 59%**, which is quite high.
 
 To address the high **Bounce Rate** (59%), a **custom landing page** is being developed specifically for search traffic. This new version is designed to better align with visitor intent and encourage deeper engagement.
 
