@@ -32,7 +32,7 @@ From my analysis, I discovered that:
 
 This finding highlights that the homepage served as the **exclusive entry point** for all traffic during the observed period. This likely reflects either a focused marketing strategy directing users to a single landing page or a limited site structure during the early launch phase.
 
-👉 Therefore, any efforts to improve landing page performance or user flow should **start with homepage optimization**, since it’s the first point of contact for every visitor.
+👉 Therefore, any efforts to improve landing page performance or user flow should **start with first landing optimization**, since it’s the first point of contact for every visitor.
 
 ---
 
