@@ -64,7 +64,7 @@ To compare the performance of the new landing page (`/lander-1`) against the exi
 
 The analysis involved:
 
--   Identifying sessions from the nonbrand Google Search paid campaign that occurred after the new landing page launch.
+-   Identifying sessions from the Google Search (nonbrand) paid campaign that occurred after the new landing page launch.
     
 -   Extracting the first page each user visited in their session to determine the landing page.
     
