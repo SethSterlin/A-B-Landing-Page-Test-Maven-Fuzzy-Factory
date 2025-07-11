@@ -1,5 +1,6 @@
 
 
+
 # Analyzing Website Performance
 This project begins with a fundamental question:
 
@@ -25,6 +26,7 @@ When you walk into the store, look around, and leave — that’s one visit (one
 > 1 Visit Can Include Multiple Pageviews
 
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
+![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184209.png?raw=true)
 
 **Example:** Example: A user visits your site and navigates through these pages in one session:
 /home → /product → /the-original-mr-fuzzy → /cart → /billing
