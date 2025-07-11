@@ -39,7 +39,7 @@ Let’s say a user visits your website and clicks through these pages in one ses
 In this case:
 
 > Session = 1 (the entire visit)
-Pageviews = 5 (because the user viewed 5 different pages)
+> Pageviews = 5 (because the user viewed 5 different pages)
 
 **Why It Matters**
 By tracking sessions and pageviews, we can:
