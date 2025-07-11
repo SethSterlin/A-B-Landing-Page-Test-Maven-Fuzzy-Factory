@@ -1,6 +1,7 @@
 
 
 
+
 # Analyzing Website Performance
 This project begins with a fundamental question:
 
@@ -55,7 +56,7 @@ Optimize the experience to increase conversion rates
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
 
 <p align="center"> 
-  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Most%20viewed%20website%20pages.png?raw=true" width="45%"> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711194422.png?raw=true" width="45%"> 
   <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706171915.png?raw=true" width="45%"> 
 </p>
 
@@ -131,4 +132,4 @@ The A/B test showed that the **new landing page (lander-1)** outperformed the ex
   - [A/B Testing](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/AB%20testing.sql)  
 
 - Tableau Dashboard:  
-  - [Most-viewed website pages ranked by session volume](https://public.tableau.com/views/Most-viewedwebsitepagesrankedbysessionvolume/Sheet1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - [Most-viewed website pages ranked by session volume](https://public.tableau.com/views/Most-viewedwebsitepagesrankedbysessionvolume2/Dashboard1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
