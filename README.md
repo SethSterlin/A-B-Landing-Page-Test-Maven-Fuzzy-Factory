@@ -77,12 +77,12 @@ This finding highlights that the homepage served as the **exclusive entry point*
 
 ## What is Bounce Rate
 
-![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706173528.png?raw=true)
+![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184451.png?raw=true)
 
 **Bounce Rate** is the percentage of website visitors who leave the site after viewing only one page without taking any further action (such as clicking a link, making a purchase, or navigating to another page). These visitors are called **Bounced Sessions** because their session ends after viewing just a single page.
 
 <p align="center"> 
-  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175307.png?raw=true" alt="Bounce Rate Chart" /> 
+  <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184711.png?raw=true" /> 
 </p>
 
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
