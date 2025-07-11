@@ -14,13 +14,13 @@ Using session data collected prior to **June 9, 2012**, I analyzed the most visi
 
 In web analytics, it's important to understand the difference between a session, a visit, and a pageview.
 
-✅ 1 Session = 1 Visit
+> 1 Session = 1 Visit
 A session (or visit) begins when a user enters your website and ends after a certain period of inactivity (usually 30 minutes) or when they leave the site.
 
-📌 Think of it like a trip to a store:
+> Think of it like a trip to a store:
 When you walk into the store, look around, and leave — that’s one visit (one session).
 
-✅ 1 Visit Can Include Multiple Pageviews
+> 1 Visit Can Include Multiple Pageviews
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 
 **Example:** Visiting an Online Store
@@ -38,8 +38,7 @@ Let’s say a user visits your website and clicks through these pages in one ses
 
 In this case:
 
-Session = 1 (the entire visit)
-
+> Session = 1 (the entire visit)
 Pageviews = 5 (because the user viewed 5 different pages)
 
 **Why It Matters**
