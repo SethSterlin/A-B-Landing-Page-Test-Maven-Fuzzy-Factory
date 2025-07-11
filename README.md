@@ -11,7 +11,7 @@ Using session data collected prior to **June 9, 2012**, I analyzed the most visi
 > _Can the new landing page reduce bounce rate and improve user engagement compared to the existing homepage?_
 ---
 
-## What is the most-viewed website pages?
+## What is the most-first-viewed website pages?
 
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
 
