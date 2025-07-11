@@ -26,18 +26,8 @@ When you walk into the store, look around, and leave — that’s one visit (one
 
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 
-**Example:** Visiting an Online Store
-Let’s say a user visits your website and clicks through these pages in one session:
-
-/home – The homepage (where they start)
-
-/product – The product listing page
-
-/the-original-mr-fuzzy – A specific product page
-
-/cart – The shopping cart page
-
-/billing – The checkout page
+**Example:** Example: A user visits your site and navigates through these pages in one session:
+/home → /product → /the-original-mr-fuzzy → /cart → /billing
 
 In this case:
 
