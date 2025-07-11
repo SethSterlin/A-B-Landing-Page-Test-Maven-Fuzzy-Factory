@@ -10,7 +10,7 @@ Using session data collected prior to **June 9, 2012**, I analyzed the most visi
 > **Key Question:**  
 > _Can the new landing page reduce bounce rate and improve user engagement compared to the existing homepage?_
 
-#What is a Session, Visit, and Pageview?
+## What is a Session, Visit, and Pageview?
 
 In web analytics, it's important to understand the difference between a session, a visit, and a pageview.
 
@@ -42,7 +42,7 @@ Session = 1 (the entire visit)
 
 Pageviews = 5 (because the user viewed 5 different pages)
 
-💡 Why It Matters
+# Why It Matters
 By tracking sessions and pageviews, we can:
 
 Understand how users move through the site
