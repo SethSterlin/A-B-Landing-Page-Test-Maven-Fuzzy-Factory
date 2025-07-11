@@ -59,7 +59,11 @@ Based on session data collected prior to **June 9, 2012**, the following pages w
 
 The **homepage**, the **products page**, and the **Mr. Fuzzy product page** get the **bulk of my traffic analysis**, accounting for the top three most-visited URLs before June 9, 2012. This indicates where users engage most and where optimization efforts should be focused first.
 
-To better understand **traffic patterns** and how users enter the site, I queried the database to identify the **top entry pages**—the first pages users land on when they begin a session.
+However, only around 1% of sessions ended with a completed purchase—meaning just a small fraction of users made it all the way to the confirmation page (/thank-you-for-your-order). This highlights a major drop-off in the conversion funnel and reveals opportunities to improve the checkout experience.
+
+To better understand where visitors are coming from, we attribute traffic to the first page a user lands on when beginning a session.
+
+This approach, known as entry page attribution, helps us pinpoint which pages are driving initial engagement. By focusing on the very first touchpoint, we can evaluate the effectiveness of external campaigns (such as paid ads or search results) and understand how well the landing page aligns with user expectations.
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706172851.png?raw=true)
 
