@@ -54,6 +54,7 @@ Identify where users drop off or lose interest
 Optimize the experience to increase conversion rates
 ---
 
+
 ## What is the first pages users land?
 
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
