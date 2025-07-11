@@ -23,7 +23,7 @@ When you walk into the store, look around, and leave — that’s one visit (one
 ✅ 1 Visit Can Include Multiple Pageviews
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 
-🛍️ Example: Visiting an Online Store
+**Example:** Visiting an Online Store
 Let’s say a user visits your website and clicks through these pages in one session:
 
 /home – The homepage (where they start)
@@ -42,7 +42,7 @@ Session = 1 (the entire visit)
 
 Pageviews = 5 (because the user viewed 5 different pages)
 
-## Why It Matters
+**Why It Matters**
 By tracking sessions and pageviews, we can:
 
 Understand how users move through the site
