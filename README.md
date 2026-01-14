@@ -30,7 +30,7 @@ A session (or visit) begins when a user enters your website and ends after a cer
 
 When you walk into the store, look around, and leave — that’s one visit (one session).
 
-> 1 Visit can Include Multiple Pageviews
+> 1 Visit can include multiple pageviews
 
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184209.png?raw=true)
