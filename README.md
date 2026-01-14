@@ -132,6 +132,14 @@ The A/B test showed that the **new landing page (lander-1)** outperformed the ex
     
 -   **Homepage (/home):** 58.34%
 
+## Recommended next analyses:
+
+-  Evaluate downstream metrics (CTR to product pages, add-to-cart rate, conversion rate)
+
+-  Identify remaining drop-off points within the funnel
+
+-  Iterate on CTA placement and messaging based on funnel performance
+
 ## Resources
 
 - SQL Scripts:  
