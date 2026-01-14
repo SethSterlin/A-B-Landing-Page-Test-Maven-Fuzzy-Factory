@@ -6,10 +6,10 @@
 # Analyzing Website Performance
 This project begins with a fundamental question:
 
-> _Which webpage do most users land on first, and how likely are they to continue browsing beyond that initial page?_
+> _**Which webpage do most users land on first, and how likely are they to continue browsing beyond that initial page?**_
 
 
-This project helps the business reduce customer drop-off at the top of the funnel, identify which landing pages are most effective in retaining traffic, and make data-driven decisions to improve user experience and maximize ROI on paid ad campaigns.
+**This project helps the business reduce customer drop-off** at the top of the funnel, identify which landing pages are most effective in retaining traffic, and make data-driven decisions to improve user experience and maximize ROI on paid ad campaigns.
 
 By reducing bounce rate, we increase the likelihood of deeper site engagement, product discovery, and ultimately—more conversions and revenue.
 
@@ -20,9 +20,9 @@ Using session data collected prior to **June 9, 2012**, I analyzed the most visi
 
 ## What is a Session, Visit, and Pageview?
 
-In web analytics, it's important to understand the difference between a session, a visit, and a pageview.
+In web analytics, it's important to **understand the difference between a session, a visit, and a pageview**.
 
-> 1 Session = 1 Visit
+> **1 Session = 1 Visit**
 
 A session (or visit) begins when a user enters your website and ends after a certain period of inactivity (usually 30 minutes) or when they leave the site.
 
@@ -30,7 +30,7 @@ A session (or visit) begins when a user enters your website and ends after a cer
 
 When you walk into the store, look around, and leave — that’s one visit (one session).
 
-> 1 Visit can include multiple pageviews
+> **1 Visit can include multiple pageviews**
 
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184209.png?raw=true)
@@ -67,7 +67,7 @@ The **homepage**, the **products page**, and the **Mr. Fuzzy product page** get 
 
 However, **Only around 1% of total sessions ended with a completed purchase**, meaning just a small fraction of users made it all the way to the confirmation page (/thank-you-for-your-order). This highlights a major drop-off in the conversion funnel and reveals opportunities to improve the checkout experience.
 
-> To better understand where visitors are coming from, we attribute traffic to the first page a user lands on when beginning a session.
+> To better understand where visitors are coming from, **we attribute traffic to the first page a user lands on when beginning a session**.
 
 This approach, known as entry page attribution, helps us pinpoint which pages are driving initial engagement. By focusing on the very first touchpoint, we can evaluate the effectiveness of external campaigns (such as paid ads or search results) and understand how well the landing page aligns with user expectations.
 
@@ -117,7 +117,7 @@ The analysis involved:
     
 -   Counting how many sessions viewed only that one page (bounced sessions).
     
--   Calculating the bounce rate for each landing page by dividing bounced sessions by total sessions.
+-   **Calculating the bounce rate for each landing page by dividing bounced sessions by total sessions**.
     
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175055.png?raw=true)
