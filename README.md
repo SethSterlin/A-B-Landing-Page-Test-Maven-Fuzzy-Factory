@@ -3,7 +3,7 @@
 
 
 
-# Analyzing Website Performance
+# Analyzing Website Performance (A/B Testing Method)
 
 ## Project Summary
 
