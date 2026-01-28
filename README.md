@@ -4,7 +4,6 @@
 
 
 # Analyzing Website Performance
-This project begins with a fundamental question:
 
 ## Project Summary
 
@@ -57,9 +56,6 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 By reducing bounce rate, we increase the likelihood of deeper site engagement, product discovery, and ultimately—more conversions and revenue.
 
 Using session data collected prior to **June 9, 2012**, I analyzed the most visited pages, identified the main entry point, and evaluated user engagement by calculating bounce rates. These insights laid the groundwork for potential optimizations and further testing.
-
-> **Key Question:**  
-> _Can the new landing page reduce bounce rate and improve user engagement compared to the existing homepage?_
 
 ## What is a Session, Visit, and Pageview?
 
