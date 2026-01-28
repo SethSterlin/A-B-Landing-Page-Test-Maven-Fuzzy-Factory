@@ -23,7 +23,13 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 - Discovered that **100% of sessions started on the Homepage**  
 - Measured an overall **bounce rate of 59%**, indicating significant top-funnel drop-off  
 - Designed and tested a **new landing page using A/B testing**  
-- The new landing page **significantly reduced bounce rate** compared to the Homepage  
+- The new landing page **significantly reduced bounce rate** compared to the Homepage
+
+---
+
+### Dataset Used
+
+Maven Fuzzy Factory : https://www.kaggle.com/code/rubenman/maven-fuzzy-factory
 
 ---
 
