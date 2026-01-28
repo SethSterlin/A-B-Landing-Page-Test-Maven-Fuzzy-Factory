@@ -63,6 +63,8 @@ By reducing bounce rate, we increase the likelihood of deeper site engagement, p
 
 Using session data collected prior to **June 9, 2012**, I analyzed the most visited pages, identified the main entry point, and evaluated user engagement by calculating bounce rates. These insights laid the groundwork for potential optimizations and further testing.
 
+---
+
 ## What is a Session, Visit, and Pageview?
 
 In web analytics, it's important to **understand the difference between a session, a visit, and a pageview**.
