@@ -6,6 +6,49 @@
 # Analyzing Website Performance
 This project begins with a fundamental question:
 
+## Project Summary
+
+This project analyzes **user behavior at the very beginning of the website journey (Top of Funnel)**  
+to understand **which page users land on first and whether they tend to leave the site immediately**.
+
+The analysis uses **session-level data collected before and after the launch of a new landing page**  
+to compare the performance of the **Homepage** versus a **Custom Landing Page** through **A/B testing**.
+
+The primary objectives are to **reduce bounce rate**, **increase user engagement**, and **create more opportunities for downstream conversions**.
+
+---
+
+## Project Highlights
+
+- Analyzed **entry pages and bounce rate** using session-level data  
+- Discovered that **100% of sessions started on the Homepage**  
+- Measured an overall **bounce rate of 59%**, indicating significant top-funnel drop-off  
+- Designed and tested a **new landing page using A/B testing**  
+- The new landing page **significantly reduced bounce rate** compared to the Homepage  
+
+---
+
+## Objectives
+
+1. Identify the first page users land on (Entry Page Attribution)  
+2. Evaluate user engagement using **Bounce Rate**  
+3. Test whether the new landing page reduces immediate exits  
+4. Generate insights to improve **UX** and increase paid campaign effectiveness  
+
+---
+
+## Key Metrics & Analysis
+
+### Key Metrics
+- Sessions  
+- Pageviews  
+- Bounce Rate  
+- Entry Page Distribution  
+
+### Key Analyses
+- Analyzed **most-visited pages** by session volume  
+- Calculated bounce rate using:
+
 > _**Which webpage do most users land on first, and how likely are they to continue browsing beyond that initial page?**_
 
 
