@@ -29,7 +29,7 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 
 ### Dataset Used
 
-Maven Fuzzy Factory : https://www.kaggle.com/code/rubenman/maven-fuzzy-factory
+[Maven Fuzzy Factory](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
 
 ---
 
