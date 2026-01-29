@@ -90,8 +90,6 @@ This funnel highlights **key opportunities to optimize landing pages and product
 Although the homepage, products page, and the Mr. Fuzzy product page receive the **majority of traffic**, only around **1% of total sessions result in a completed purchase**.  
 This suggests that a **large proportion of users drop off early in the funnel**, before reaching deeper engagement or checkout stages.
 
----
-
 #### **Entry Page Attribution**
 
 To better understand **where this drop-off begins**, traffic was attributed to the **first page viewed in each session (entry page attribution)**.  
@@ -103,8 +101,6 @@ The analysis shows that **all sessions during the observed period began on the h
 Given this structure, **early exits from the homepage would have a significant impact on overall conversion performance**.
 
 As a result, the next step is to examine user behavior at the landing stage, with **Bounce Rate** serving as a **key metric to quantify immediate drop-offs**.
-
----
 
 ### **Bounce Rate**
 
