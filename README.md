@@ -5,7 +5,7 @@
 
 # Analyzing Website Performance (A/B Testing Method)
 
-## Project Summary
+## Project Background
 
 This project analyzes **user behavior at the very beginning of the website journey (Top of Funnel)**  
 to understand **which page users land on first and whether they tend to leave the site immediately**.
@@ -17,7 +17,7 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 
 ---
 
-## Project Highlights
+### Project Highlights
 
 - Analyzed **entry pages and bounce rate** using session-level data  
 - Discovered that **100% of sessions started on the Homepage**  
@@ -27,7 +27,7 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 
 ---
 
-### Dataset Used
+## Dataset Used
 
 [Maven Fuzzy Factory](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
 
