@@ -148,15 +148,6 @@ The full SQL query used to calculate Bounce Rate is available [here](https://git
 
 ### A/B Testing Methodology (Landing Page Experiment)
 
-A/B Testing Methodology (Landing Page Experiment)
-    
-
-![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175055.png?raw=true)
-
-This SQL-based approach allowed me to measure and compare user engagement on both pages, showing that the new landing page has a lower bounce rate and better retains visitors.
-
-## A/B Test Results – New Landing Page vs. Homepage
-
 An A/B test was conducted to evaluate whether the new custom landing page (/lander-1) reduced bounce rate compared to the existing homepage (/home) for paid search traffic.
 
 The experiment focused exclusively on Google Search (nonbrand) sessions to ensure a consistent traffic source and user intent.
