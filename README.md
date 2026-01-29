@@ -115,6 +115,7 @@ As a result, the next step is to examine user behavior at the landing stage, wit
 <p align="center"> 
   <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184711.png?raw=true" /> 
 </p>
+
 ---
 
 ## Analysis Methodology
