@@ -203,6 +203,8 @@ While Bounce Rate is effective for measuring immediate engagement, future experi
 - Apply a segmented landing page strategy across acquisition channels.
 The improvement seen in paid search traffic suggests that a single generic homepage may not effectively serve all traffic sources. Creating channel-specific landing pages could further improve engagement and conversion outcomes.
 
+![enter image description here](https://raw.githubusercontent.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/refs/heads/main/9effb71f-0020-4d98-a302-f2797e89445e.png)
+
 ## Resources
 
 - SQL Scripts:  
