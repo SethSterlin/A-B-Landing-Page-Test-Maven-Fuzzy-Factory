@@ -41,41 +41,7 @@ The dataset contains a total of 472,871 records across all tables.
 
 Prior to beginning the analysis, a variety of quality control checks were performed to become familiar with the dataset. SQL was used during this stage to validate data integrity, identify missing or inconsistent values, and quickly explore large tables through aggregation and filtering.
 
----
-
-## Objectives
-
-1. Identify the first page users land on (Entry Page Attribution)  
-2. Evaluate user engagement using **Bounce Rate**  
-3. Test whether the new landing page reduces immediate exits  
-4. Generate insights to improve **UX** and increase paid campaign effectiveness  
-
----
-
-## Key Metrics & Analysis
-
-### Key Metrics
-- Sessions  
-- Pageviews  
-- Bounce Rate  
-- Entry Page Distribution  
-
-### Key Analyses
-- Analyzed **most-visited pages** by session volume  
-- Calculated bounce rate using:
-
-> _**Which webpage do most users land on first, and how likely are they to continue browsing beyond that initial page?**_
-
-
-**This project helps the business reduce customer drop-off** at the top of the funnel, identify which landing pages are most effective in retaining traffic, and make data-driven decisions to improve user experience and maximize ROI on paid ad campaigns.
-
-By reducing bounce rate, we increase the likelihood of deeper site engagement, product discovery, and ultimately—more conversions and revenue.
-
-Using session data collected prior to **June 9, 2012**, I analyzed the most visited pages, identified the main entry point, and evaluated user engagement by calculating bounce rates. These insights laid the groundwork for potential optimizations and further testing.
-
----
-
-## Web Analytics Concepts (Sessions vs Pageviews)
+### Web Analytics Concepts (Sessions vs Pageviews)
 
 In web analytics, it's important to **understand the difference between a session, a visit, and a pageview**.
 
@@ -112,9 +78,7 @@ Identify where users drop off or lose interest
 
 Optimize the experience to increase conversion rates
 
----
-
-## What is the first pages users land?
+### What is the first pages users land?
 
 Based on session data collected prior to **June 9, 2012**, the following pages were identified as the most visited on the website:
 
