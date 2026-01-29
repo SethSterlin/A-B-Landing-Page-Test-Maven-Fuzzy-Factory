@@ -106,9 +106,7 @@ To better understand where this drop-off begins, traffic was attributed to the f
 The analysis shows that all sessions during the observed period began on the homepage (/home), making it the sole entry point for user traffic. Given this structure, early exits from the homepage would have a significant impact on overall conversion performance.  
 As a result, the next step is to examine user behavior at the landing stage, with **Bounce Rate** serving as a key metric to quantify immediate drop-offs.
 
----
-
-## What is Bounce Rate
+### Bounce Rate
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184451.png?raw=true)
 
@@ -117,6 +115,9 @@ As a result, the next step is to examine user behavior at the landing stage, wit
 <p align="center"> 
   <img src="https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184711.png?raw=true" /> 
 </p>
+---
+
+## Analysis Methodology
 
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
 
