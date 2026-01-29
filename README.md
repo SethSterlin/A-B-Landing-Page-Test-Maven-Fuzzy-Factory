@@ -8,6 +8,7 @@
 ## Project Background
 
 **Maven Fuzzy Factory** is a fictional e-commerce company that sells a flagship product called *The Original Mr. Fuzzy*, along with related merchandise.  
+
 The dataset simulates real-world online retail operations, capturing the complete customer journey from website visits to purchases and refunds.
 
 As the business grew, Maven Fuzzy Factory invested in **paid digital marketing channels**, particularly **Google Search (nonbrand)** campaigns, to attract new users to the website. However, despite increasing traffic, overall conversion performance remained low, with a large proportion of users leaving the site shortly after arrival.
