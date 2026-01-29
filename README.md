@@ -122,13 +122,9 @@ Using this method, the Bounce Rate prior to June 14, 2012 was calculated to be *
 
 > The problem is that I calculated the **Bounce Rate to be 59%**, which is **quite high**.
 
----
-
 ### **A/B Testing Methodology (Landing Page Experiment)**
 
 An A/B test was conducted to evaluate whether the **new custom landing page (/lander-1)** reduced bounce rate compared to the **existing homepage (/home)** for **paid search traffic**.
-
----
 
 ### **Result Summary**
 
