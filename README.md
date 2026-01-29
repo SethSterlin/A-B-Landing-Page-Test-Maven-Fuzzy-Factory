@@ -27,12 +27,17 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 
 ---
 
-## Dataset Used
+## Data Structure & Initial Checks
+
+### Dataset used
 
 [Maven Fuzzy Factory](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
 
+This ERD consists of six tables: website_sessions, website_pageviews, orders, order_items, products, and order_item_refunds, representing the full e-commerce funnel from traffic to refunds.
+The dataset contains a total of 472,871 records across all tables.
 
-![enter image description here]([https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184209.png?raw=true](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Maven%20ERD.png?raw=true)
+
+![ERD Schema](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Maven%20ERD.png?raw=true)
 
 ---
 
