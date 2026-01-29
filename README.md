@@ -1,7 +1,4 @@
-
-
-
-
+![Dataset Overview](https://raw.githubusercontent.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/refs/heads/main/dataset-cover.jpg)
 
 # Analyzing Website Performance (A/B Testing Method)
 
