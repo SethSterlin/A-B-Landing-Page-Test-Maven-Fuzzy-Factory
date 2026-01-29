@@ -120,6 +120,8 @@ As a result, the next step is to examine user behavior at the landing stage, wit
 
 ## Analysis Methodology
 
+### Calculated Bounce Rate
+
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
 
 Bounce Rate was calculated to measure the proportion of user sessions in which visitors left the website after viewing only a single page.
@@ -144,21 +146,9 @@ This experiment will help determine whether the new page design effectively redu
 
 The full SQL query used to calculate Bounce Rate is available [here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
 
----
+### A/B Testing Methodology (Landing Page Experiment)
 
-## A/B Test Methods – New Landing Page vs. Homepage
-
-To compare the performance of the new landing page (`/lander-1`) against the existing homepage (`/home`), I used SQL queries to analyze real user session data.
-
-The analysis involved:
-
--   Identifying sessions from the Google Search (nonbrand) paid campaign that occurred after the new landing page launch.
-    
--   Extracting the first page each user visited in their session to determine the landing page.
-    
--   Counting how many sessions viewed only that one page (bounced sessions).
-    
--   **Calculating the bounce rate for each landing page by dividing bounced sessions by total sessions**.
+A/B Testing Methodology (Landing Page Experiment)
     
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706175055.png?raw=true)
@@ -167,19 +157,41 @@ This SQL-based approach allowed me to measure and compare user engagement on bot
 
 ## A/B Test Results – New Landing Page vs. Homepage
 
-The A/B test showed that the **new landing page (lander-1)** outperformed the existing **homepage** in terms of **bounce rate**:
+An A/B test was conducted to evaluate whether the new custom landing page (/lander-1) reduced bounce rate compared to the existing homepage (/home) for paid search traffic.
 
--   **New Landing Page (lander-1):** 53.22%
-    
--   **Homepage (/home):** 58.34%
+The experiment focused exclusively on Google Search (nonbrand) sessions to ensure a consistent traffic source and user intent.
 
-## Recommended next analyses:
+Experimental Design
 
--  Evaluate downstream metrics (CTR to product pages, add-to-cart rate, conversion rate)
+The full SQL script used to perform this A/B test is available [here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/AB%20testing.sql)  
 
--  Identify remaining drop-off points within the funnel
+The analysis followed these steps:
 
--  Iterate on CTA placement and messaging based on funnel performance
+Identify the launch point of the new landing page
+The first appearance of /lander-1 was identified to establish the start of the test period and ensure only post-launch sessions were included.
+
+Select relevant test sessions
+Sessions were filtered to include only:
+
+Sessions created after the new landing page launch
+
+Traffic from Google Search (nonbrand) paid campaigns
+
+Sessions occurring before July 28, 2012
+
+Determine the landing page for each session
+For each session, the first pageview was extracted to identify whether users landed on /home or /lander-1.
+
+Identify bounced sessions
+Sessions were classified as bounced if only one pageview occurred during the entire session.
+
+Calculate Bounce Rate by landing page
+Bounce Rate was calculated separately for /home and /lander-1 by dividing bounced sessions by total sessions for each landing page.
+
+Result Summary
+
+The new landing page (/lander-1) achieved a lower bounce rate (53.22%) compared to the homepage (58.34%), indicating improved user engagement for paid search traffic.
+This result suggests that aligning landing page design more closely with user intent can effectively reduce early session drop-offs.
 
 ## Resources
 
