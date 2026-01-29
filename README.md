@@ -27,7 +27,7 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 
 ---
 
-## Data Structure & Initial Checks
+## Data Structure, Initial Checks, and Key Concepts
 
 ### Dataset used
 
