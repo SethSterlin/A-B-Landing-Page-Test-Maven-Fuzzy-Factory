@@ -93,35 +93,18 @@ This funnel highlights key opportunities to optimize landing pages and product p
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Most-viewed%20website%20pages,%20ranked%20by%20session%20volume.png?raw=trueraw=true)
 
-### Key Insight
+#### Key Insight
 
-While the homepage, products page, and the Mr. Fuzzy product page account for the majority of traffic, only around 1% of total sessions result in a completed purchase. This indicates a substantial drop-off throughout the conversion funnel.
+Although the homepage, products page, and the Mr. Fuzzy product page receive the majority of traffic, only around 1% of total sessions result in a completed purchase. This suggests that a large proportion of users drop off early in the funnel, before reaching deeper engagement or checkout stages.
 
-### Entry Page Attribution
+#### Entry Page Attribution
 
-To understand how users initially engage with the site, traffic was attributed to the first page viewed in each session (entry page attribution). This approach helps evaluate how effectively landing pages align with user expectations and external traffic sources.
+To better understand where this drop-off begins, traffic was attributed to the first page viewed in each session (entry page attribution). Focusing on the initial touchpoint allows us to evaluate whether users are engaging with the site immediately upon landing.
 
-### Finding
+#### Finding
 
-All sessions during the observed period began on the homepage (/home), indicating that it served as the sole entry point for user traffic. As a result, homepage optimization represents the highest-impact opportunity to improve overall user flow and conversion performance.
-
-The **homepage**, the **products page**, and the **Mr. Fuzzy product page** get the **bulk of my traffic analysis**, accounting for the top three most-visited URLs before June 9, 2012. This indicates where users engage most and where optimization efforts should be focused first.
-
-However, **Only around 1% of total sessions ended with a completed purchase**, meaning just a small fraction of users made it all the way to the confirmation page (/thank-you-for-your-order). This highlights a major drop-off in the conversion funnel and reveals opportunities to improve the checkout experience.
-
-> To better understand where visitors are coming from, **we attribute traffic to the first page a user lands on when beginning a session**.
-
-This approach, known as entry page attribution, helps us pinpoint which pages are driving initial engagement. By focusing on the very first touchpoint, we can evaluate the effectiveness of external campaigns (such as paid ads or search results) and understand how well the landing page aligns with user expectations.
-
-![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250706172851.png?raw=true)
-
-From my analysis, I discovered that:
-
-> 🏠 **All sessions started from the homepage (`/home`)**.
-
-This finding highlights that the homepage served as the **exclusive entry point** for all traffic during the observed period. This likely reflects either a focused marketing strategy directing users to a single landing page or a limited site structure during the early launch phase.
-
-👉 Therefore, any efforts to improve landing page performance or user flow should **start with first landing optimization**, since it’s the first point of contact for every visitor.
+The analysis shows that all sessions during the observed period began on the homepage (/home), making it the sole entry point for user traffic. Given this structure, early exits from the homepage would have a significant impact on overall conversion performance.  
+As a result, the next step is to examine user behavior at the landing stage, with **Bounce Rate** serving as a key metric to quantify immediate drop-offs.
 
 ---
 
