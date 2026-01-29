@@ -122,6 +122,18 @@ As a result, the next step is to examine user behavior at the landing stage, wit
 
 I calculate Bounce Rate because it helps me understand **how engaging and relevant** the landing pages are to visitors. A high bounce rate may indicate that users aren’t finding what they expect or that the page experience needs improvement.
 
+Bounce Rate was calculated to measure the proportion of user sessions in which visitors left the website after viewing only a single page.
+
+The calculation process involved:
+
+- Identifying the first pageview of each session to determine the landing page
+
+- Classifying sessions as bounced sessions if only one pageview occurred during the session
+
+- Calculating Bounce Rate by dividing the number of bounced sessions by the total number of sessions within the analysis period
+
+Using this method, the Bounce Rate prior to June 14, 2012 was calculated to be 59.18%, indicating a high level of early user drop-off at the landing stage.
+
 > The problem is that I calculated the **Bounce Rate to be 59%**, which is quite high.
 
 To address the high **Bounce Rate** (59%), a **custom landing page** is being developed specifically for search traffic. This new version is designed to better align with visitor intent and encourage deeper engagement.
@@ -129,6 +141,8 @@ To address the high **Bounce Rate** (59%), a **custom landing page** is being de
 An **A/B test** will be conducted to compare the **new custom landing page** against the **current homepage**, using **Bounce Rate** as the primary performance metric.
 
 This experiment will help determine whether the new page design effectively reduces drop-offs and improves user interaction.
+
+The full SQL query used to calculate Bounce Rate is available [here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
 
 ---
 
