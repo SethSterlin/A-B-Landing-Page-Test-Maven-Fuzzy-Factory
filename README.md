@@ -75,7 +75,7 @@ Using session data collected prior to **June 9, 2012**, I analyzed the most visi
 
 ---
 
-## What is a Session, Visit, and Pageview?
+## Web Analytics Concepts (Sessions vs Pageviews)
 
 In web analytics, it's important to **understand the difference between a session, a visit, and a pageview**.
 
