@@ -15,8 +15,6 @@ to compare the performance of the **Homepage** versus a **Custom Landing Page** 
 
 The primary objectives are to **reduce bounce rate**, **increase user engagement**, and **create more opportunities for downstream conversions**.
 
----
-
 ### Project Highlights
 
 - Analyzed **entry pages and bounce rate** using session-level data  
@@ -183,6 +181,27 @@ Result Summary
 
 The new landing page (/lander-1) achieved a lower bounce rate (53.22%) compared to the homepage (58.34%), indicating improved user engagement for paid search traffic.
 This result suggests that aligning landing page design more closely with user intent can effectively reduce early session drop-offs.
+
+---
+
+### Recomentations
+
+Based on the insights uncovered from funnel analysis and A/B testing results, the following recommendations are proposed to improve user engagement and conversion performance.
+
+- Redirect paid search traffic to the new landing page (/lander-1).
+The A/B test shows that the new landing page achieved a lower bounce rate (53.22%) compared to the homepage (58.34%) for Google Search (nonbrand) traffic. Routing paid traffic to /lander-1 should reduce early drop-offs and improve session quality.
+
+- Prioritize landing page optimization over downstream funnel stages.
+Since 100% of sessions enter through the homepage, early-stage engagement has the highest impact on overall conversion performance. Improving the landing experience should be treated as a higher priority than checkout-stage optimizations.
+
+- Strengthen above-the-fold messaging to align with user intent.
+The high pre-test bounce rate (~59%) indicates a mismatch between user expectations and landing page content. Clearer value propositions, stronger CTAs, and intent-matched messaging should be emphasized to encourage deeper site exploration.
+
+- Expand A/B testing beyond Bounce Rate as the sole metric.
+While Bounce Rate is effective for measuring immediate engagement, future experiments should also evaluate downstream metrics such as product page click-through rate, add-to-cart rate, and conversion rate to ensure business impact.
+
+- Apply a segmented landing page strategy across acquisition channels.
+The improvement seen in paid search traffic suggests that a single generic homepage may not effectively serve all traffic sources. Creating channel-specific landing pages could further improve engagement and conversion outcomes.
 
 ## Resources
 
