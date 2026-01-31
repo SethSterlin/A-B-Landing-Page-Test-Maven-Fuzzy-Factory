@@ -94,7 +94,7 @@ This funnel highlights key opportunities to optimize landing pages and product p
 
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Most-viewed%20website%20pages,%20ranked%20by%20session%20volume.png?raw=trueraw=true)
 
-#### Key Insight
+#### The first pages insight
 
 Although the homepage, products page, and the Mr. Fuzzy product page receive the majority of traffic, only around 1% of total sessions result in a completed purchase. This suggests that a large proportion of users drop off early in the funnel, before reaching deeper engagement or checkout stages.
 
