@@ -98,11 +98,7 @@ This funnel highlights key opportunities to optimize landing pages and product p
 
 Although the homepage, products page, and the Mr. Fuzzy product page receive the majority of traffic, only around 1% of total sessions result in a completed purchase. This suggests that a large proportion of users drop off early in the funnel, before reaching deeper engagement or checkout stages.
 
-#### Entry Page Attribution
-
 To better understand where this drop-off begins, traffic was attributed to the first page viewed in each session (entry page attribution). Focusing on the initial touchpoint allows us to evaluate whether users are engaging with the site immediately upon landing.
-
-#### Finding
 
 The analysis shows that all sessions during the observed period began on the homepage (``/home``), making it the sole entry point for user traffic. Given this structure, early exits from the homepage would have a significant impact on overall conversion performance.  
 As a result, the next step is to examine user behavior at the landing stage, with **Bounce Rate** serving as a key metric to quantify immediate drop-offs.
