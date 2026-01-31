@@ -26,7 +26,7 @@ The primary objectives are to **reduce bounce rate**, **increase user engagement
 - Designed and tested a **new landing page using A/B testing**  
 - The new landing page **significantly reduced bounce rate** compared to the Homepage
 
-Tools: `SQL` `MySQL` `Tableau`
+### Tools: `SQL` `MySQL` `Tableau`
 
 ---
 
