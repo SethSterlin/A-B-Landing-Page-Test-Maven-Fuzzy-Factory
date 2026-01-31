@@ -187,7 +187,7 @@ This result suggests that aligning landing page design more closely with user in
 
 ---
 
-### Recomentations
+## Recomentations
 
 Based on the insights uncovered from funnel analysis and A/B testing results, the following recommendations are proposed to improve user engagement and conversion performance.
 
