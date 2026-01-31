@@ -36,7 +36,7 @@ Tools: `SQL` `MySQL` `Tableau`
 
 [Maven Fuzzy Factory](https://www.kaggle.com/code/rubenman/maven-fuzzy-factory)  
 
-This ERD consists of six tables: website_sessions, website_pageviews, orders, order_items, products, and order_item_refunds, representing the full e-commerce funnel from traffic to refunds.
+This ERD consists of six tables: `website_sessions`, `website_pageviews`, `orders, order_items`, products, and `order_item_refunds`, representing the full e-commerce funnel from traffic to refunds.
 The dataset contains a total of 472,871 records across all tables.
 
 
