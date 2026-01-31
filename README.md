@@ -8,7 +8,7 @@
 
 The dataset simulates real-world online retail operations, capturing the complete customer journey from website visits to purchases and refunds.
 
-As the business grew, Maven Fuzzy Factory invested in **paid digital marketing channels**, particularly **Google Search (nonbrand)** campaigns, to attract new users to the website. However, despite increasing traffic, overall conversion performance remained low, with a large proportion of users leaving the site shortly after arrival.
+As the business grew, Maven Fuzzy Factory invested in **paid digital marketing channels**, particularly `Google Search (nonbrand)` campaigns, to attract new users to the website. However, despite increasing traffic, overall conversion performance remained low, with a large proportion of users leaving the site shortly after arrival.
 
 This project analyzes **user behavior at the very beginning of the website journey (Top of Funnel)**  
 to understand **which page users land on first and whether they tend to leave the site immediately**.
@@ -46,27 +46,27 @@ Prior to beginning the analysis, a variety of quality control checks were perfor
 
 In web analytics, it's important to **understand the difference between a session, a visit, and a pageview**.
 
-> **1 Session = 1 Visit**
+`1 Session` = **1 Visit**
 
 A session (or visit) begins when a user enters your website and ends after a certain period of inactivity (usually 30 minutes) or when they leave the site.
 
-> Think of it like a trip to a store:
+**Think of it like a trip to a store:**
 
 When you walk into the store, look around, and leave — that’s one visit (one session).
 
-> **1 Visit can include multiple pageviews**
+**1 Visit can include multiple pageviews**
 
 During one session, a user might view several pages on your site. Each time a page loads, that’s called a pageview.
 ![enter image description here](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/screenshot20250711184209.png?raw=true)
 
 **Example:** A user visits your site and navigates through these pages in one session:
-/home → /product → /the-original-mr-fuzzy → /cart → /billing
+`/home` → `/product` → `/the-original-mr-fuzzy` → `/cart` → `/billing`
 
 In this case:
 
-> Session = 1 (the entire visit)
+`Session` = 1 (the entire visit)
 
-> Pageviews = 5 (because the user viewed 5 different pages)
+`Pageviews` = 5 (because the user viewed 5 different pages)
 
 **Why It Matters**
 By tracking sessions and pageviews, we can:
@@ -85,9 +85,9 @@ Based on session data collected prior to **June 9, 2012**, the following pages w
 
 The funnel below illustrates how user sessions progress through the website, from the home page to the billing stage.
 
-- Most sessions start on the **/home** page (10,403 sessions).
+- Most sessions start on the `/home` page (10,403 sessions).
 - Significant drop-offs occur as users move from **product pages to the cart**.
-- Only a small fraction of users reach the checkout steps (**/shipping** and **/billing**).
+- Only a small fraction of users reach the checkout steps (`/shipping` and `/billing`).
 - Overall, **approximately 1% of total sessions result in a completed purchase**.
 
 This funnel highlights key opportunities to optimize landing pages and product pages to improve conversion rates.
@@ -104,7 +104,7 @@ To better understand where this drop-off begins, traffic was attributed to the f
 
 #### Finding
 
-The analysis shows that all sessions during the observed period began on the homepage (/home), making it the sole entry point for user traffic. Given this structure, early exits from the homepage would have a significant impact on overall conversion performance.  
+The analysis shows that all sessions during the observed period began on the homepage (``/home``), making it the sole entry point for user traffic. Given this structure, early exits from the homepage would have a significant impact on overall conversion performance.  
 As a result, the next step is to examine user behavior at the landing stage, with **Bounce Rate** serving as a key metric to quantify immediate drop-offs.
 
 ### Bounce Rate
@@ -149,9 +149,9 @@ The full SQL query used to calculate Bounce Rate is available [here](https://git
 
 ### A/B Testing Methodology (Landing Page Experiment)
 
-An A/B test was conducted to evaluate whether the new custom landing page (/lander-1) reduced bounce rate compared to the existing homepage (/home) for paid search traffic.
+An A/B test was conducted to evaluate whether the new custom landing page (`/lander-1`) reduced bounce rate compared to the existing homepage (`/home`) for paid search traffic.
 
-The experiment focused exclusively on Google Search (nonbrand) sessions to ensure a consistent traffic source and user intent.
+The experiment focused exclusively on `Google Search (nonbrand)` sessions to ensure a consistent traffic source and user intent.
 
 Experimental Design
 
@@ -160,29 +160,29 @@ The full SQL script used to perform this A/B test is available [here](https://gi
 The analysis followed these steps:
 
 Identify the launch point of the new landing page
-The first appearance of /lander-1 was identified to establish the start of the test period and ensure only post-launch sessions were included.
+The first appearance of `/lander-1` was identified to establish the start of the test period and ensure only post-launch sessions were included.
 
 Select relevant test sessions
 Sessions were filtered to include only:
 
 Sessions created after the new landing page launch
 
-Traffic from Google Search (nonbrand) paid campaigns
+Traffic from `Google Search (nonbrand)` paid campaigns
 
 Sessions occurring before July 28, 2012
 
 Determine the landing page for each session
-For each session, the first pageview was extracted to identify whether users landed on /home or /lander-1.
+For each session, the first pageview was extracted to identify whether users landed on `/home` or `/lander-1`.
 
 Identify bounced sessions
 Sessions were classified as bounced if only one pageview occurred during the entire session.
 
 Calculate Bounce Rate by landing page
-Bounce Rate was calculated separately for /home and /lander-1 by dividing bounced sessions by total sessions for each landing page.
+Bounce Rate was calculated separately for `/home` and `/lander-1` by dividing bounced sessions by total sessions for each landing page.
 
 Result Summary
 
-**The new landing page (/lander-1) achieved a lower bounce rate (53.22%) compared to the homepage (58.34%)**, indicating improved user engagement for paid search traffic.
+**The new landing page (`/lander-1`) achieved a lower bounce rate (53.22%) compared to the homepage (58.34%)**, indicating improved user engagement for paid search traffic.
 This result suggests that aligning landing page design more closely with user intent can effectively reduce early session drop-offs.
 
 ![enter image description here](https://raw.githubusercontent.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/refs/heads/main/9effb71f-0020-4d98-a302-f2797e89445e.png)
@@ -193,7 +193,7 @@ This result suggests that aligning landing page design more closely with user in
 
 Based on the insights uncovered from funnel analysis and A/B testing results, the following recommendations are proposed to improve user engagement and conversion performance.
 
-- **Redirect paid search traffic to the new landing page (/lander-1).**
+- **Redirect paid search traffic to the new landing page (`/lander-1`).**
 The A/B test shows that the new landing page achieved a lower bounce rate (53.22%) compared to the homepage (58.34%) for Google Search (nonbrand) traffic. Routing paid traffic to /lander-1 should reduce early drop-offs and improve session quality.
 
 - **Prioritize landing page optimization over downstream funnel stages.**
