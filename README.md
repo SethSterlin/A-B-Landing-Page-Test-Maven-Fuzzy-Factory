@@ -34,7 +34,7 @@ Tools: `SQL` `MySQL` `Tableau`
 
 ### Dataset used
 
-[Maven Fuzzy Factory](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
+[Maven Fuzzy Factory](https://www.kaggle.com/code/rubenman/maven-fuzzy-factory)  
 
 This ERD consists of six tables: website_sessions, website_pageviews, orders, order_items, products, and order_item_refunds, representing the full e-commerce funnel from traffic to refunds.
 The dataset contains a total of 472,871 records across all tables.
