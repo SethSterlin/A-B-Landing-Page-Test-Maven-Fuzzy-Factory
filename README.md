@@ -206,6 +206,21 @@ While Bounce Rate is effective for measuring immediate engagement, future experi
 - **Apply a segmented landing page strategy across acquisition channels.**
 The improvement seen in paid search traffic suggests that a single generic homepage may not effectively serve all traffic sources. Creating channel-specific landing pages could further improve engagement and conversion outcomes.
 
+---
+
+## Business Insights
+
+- **Early-stage user drop-off is the key business problem.**  
+  With a ~59% bounce rate and only ~1% session-to-purchase conversion, most value is lost at the landing stage rather than deeper in the funnel.
+
+- **The homepage underperforms for paid search traffic.**  
+  Since all sessions enter through `/home`, misalignment between landing page content and paid search intent heavily impacts overall performance.
+
+- **Intent-focused landing pages drive measurable improvement.**  
+  The custom landing page (`/lander-1`) reduced bounce rate by over 5 percentage points, proving that channel-specific landing experiences improve engagement without increasing ad spend.
+
+---
+
 ## Resources
 
 - SQL Scripts:  
